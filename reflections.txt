@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. Some new elements in HTML that I never used before, like <del>, <em>, <sup>
+2. All easy, I have solid programming background.
+3. It is not difficult, but it requires a lot of practice to use the elements skillfully.
+4. I search the MDN reference for new elements. I do not use StackOverflow for this project.
